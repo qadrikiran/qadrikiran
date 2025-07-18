@@ -2,7 +2,7 @@
 <h3 align="center"> I'm from Pakistan 🇵🇰 ,I'm passionate about building responsive websites and improving my coding skills every day.
 </h3>
 <img align="right" alt="coding" width="400" src="https://github.com/qadrikiran/qadrikiran/blob/main/coding.gif">
-<p align="left"> <img src="https://" alt="aqsa-isha" /> </p>
+<p align="left">  </p>
 
 - 👋 **Hi there! I'm kiran**
 
