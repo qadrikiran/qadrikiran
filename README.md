@@ -1,4 +1,4 @@
-<h1 align="center">kiran qadri</h1>
+<h1 align="center">Kiran Qadri</h1>
 <h3 align="center"> I'm from Pakistan 🇵🇰 ,I'm passionate about building responsive websites and improving my coding skills every day.
 </h3>
 <img align="right" alt="coding" width="400" src="https://github.com/aqsa-isha/Aqsa-Isha-Soomro/blob/main/Hello%20Dribbble!.gif">
